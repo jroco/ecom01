@@ -5,7 +5,7 @@ I will try to recreate the Nanomarket portal in django language
 
 Dependencies
 python -m pip install Django
-django-admin startproject nanomarket
+django-admin startproject portal01
 
 python manage.py startapp blog
 

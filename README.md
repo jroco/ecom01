@@ -1,5 +1,5 @@
 # ecom01
-ecommerce in django first web app
+ecommerce in Django Web App
 
 Nanomarket portal in django language
 
